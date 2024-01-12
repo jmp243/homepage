@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-Hello! 
-I am Jung Mee Park. I work as a data analyst at the University of Arizona.
+## Hello! 
+I am Jung Mee Park. I work as a data analyst at the University of Arizona. Currently, I work with UA's Analytics data and Salesforce CRM data.
 
 ## Education
 - PhD in Sociology, Cornell University
@@ -12,4 +12,5 @@ I am Jung Mee Park. I work as a data analyst at the University of Arizona.
 - BA (*magna cum laude*) in History and Sociology, University of Pennsylvania
 
 
-```
+
+

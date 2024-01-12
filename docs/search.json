@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "jmp243.github.io/jmp243.github.io.html",
-    "href": "jmp243.github.io/jmp243.github.io.html",
-    "title": "jmp243.github.io",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to my website",
@@ -25,13 +18,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hello! I am Jung Mee Park. I work as a data analyst at the University of Arizona."
+    "text": "I am Jung Mee Park. I work as a data analyst at the University of Arizona. Currently, I work with UA’s Analytics data and Salesforce CRM data."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\nPhD in Sociology, Cornell University\nMLIS in Library and Information Sciences, University of Arizona\nMA in Quantitative Methods in the Social Sciences, Columbia University\nBA (magna cum laude) in History and Sociology, University of Pennsylvania\n\n```"
+    "text": "Education\n\nPhD in Sociology, Cornell University\nMLIS in Library and Information Sciences, University of Arizona\nMA in Quantitative Methods in the Social Sciences, Columbia University\nBA (magna cum laude) in History and Sociology, University of Pennsylvania"
   }
 ]
