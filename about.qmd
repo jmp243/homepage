@@ -3,10 +3,13 @@ title: "About"
 ---
 
 Hello! 
+I am Jung Mee Park. I work as a data analyst at the University of Arizona.
 
-```{r}
-1 + 1
-# https://quarto.org/docs/publishing/github-pages.html
-# https://github.com/cct-datascience/CALS-workshops/tree/main/202210-quarto-website
+## Education
+- PhD in Sociology, Cornell University
+- MLIS in Library and Information Sciences, University of Arizona
+- MA in Quantitative Methods in the Social Sciences, Columbia University
+- BA (*magna cum laude*) in History and Sociology, University of Pennsylvania
+
 
 ```
