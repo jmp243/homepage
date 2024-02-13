@@ -5,7 +5,7 @@ project:
 key: value
 
 website:
-  title: "jmp243.github.io"
+  title: "Jung Mee Park, PhD"
   navbar:
     left:
       - href: index.qmd
