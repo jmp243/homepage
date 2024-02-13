@@ -2,8 +2,10 @@ project:
   type: website
   output-dir: docs
 
+key: value
+
 website:
-  title: "Jung Mee Park, PhD"
+  title: "jmp243.github.io"
   navbar:
     left:
       - href: index.qmd

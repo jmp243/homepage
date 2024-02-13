@@ -6,10 +6,10 @@ title: "About"
 I am Jung Mee Park. I work as a data analyst at the University of Arizona. Currently, I work with UA's Analytics data and Salesforce CRM data.
 
 ## Education
-- PhD in Sociology, Cornell University
-- MLIS in Library and Information Sciences, University of Arizona
-- MA in Quantitative Methods in the Social Sciences, Columbia University
-- BA (*magna cum laude*) in History and Sociology, University of Pennsylvania
+- **PhD** in Sociology, **Cornell University**
+- **MLIS** in Library and Information Sciences, **University of Arizona**
+- **MA** in Quantitative Methods in the Social Sciences, **Columbia University**
+- **BA** (*magna cum laude*) in History and Sociology, **University of Pennsylvania**
 
 
 
