@@ -4,7 +4,9 @@ title: "About"
 
 ## Hello!
 
-I am Jung Mee Park. I work as a data analyst at the University of Arizona. Currently, I work with UA's Analytics data and Salesforce CRM data.
+I am Jung Mee Park. I work as a data analyst at the University of Arizona. Currently, I work with UA's University Information Technology Services's CRM division, Trellis. Within Trellis, I am on the Data Strategy and Quality Team.
+
+Some of the tools I use everyday include Salesforce, R, and Tableau.
 
 ## Education
 
@@ -14,8 +16,9 @@ I am Jung Mee Park. I work as a data analyst at the University of Arizona. Curre
 -   **BA** (*magna cum laude*) in History and Sociology, **University of Pennsylvania**
 
 ## Work Experience
-- 2021 to present (current) **Data Analyst III** at the **University of Arizona, University Information and Technology Services**	
-- 2016 to 2021 (previous) **College Counselor** at **BASIS Tucson North** 
-- 2021 (previous) **Discovery and Usability Intern** at the **University of Arizona, University Libraries**
+
+-   2021 to present (current) **Data Analyst III** at the **University of Arizona, University Information and Technology Services**
+-   2016 to 2021 (previous) **College Counselor** at **BASIS Tucson North**
+-   2021 (previous) **Discovery and Usability Intern** at the **University of Arizona, University Libraries**
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/jmp243/)
